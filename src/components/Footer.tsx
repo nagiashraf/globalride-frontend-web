@@ -7,19 +7,13 @@ const Footer = () => {
   return (
     <footer className="py-8 bg-light">
       <div className="container">
-        <p>
-          {t(
-            "footer.copyright",
-            { year: new Date().getFullYear() },
-            { ns: "common" },
-          )}
-        </p>
+        <p>{t("footer.copyright", { year: new Date().getFullYear() })}</p>
         <p className="mt-2">
-          <Trans i18nKey="footer.developerInfo" ns="common" email={email}>
+          <Trans i18nKey="footer.developerInfo" ns="common" values={{ email }}>
             This web app was developed by Nagi Ashraf, a .NET & React full-stack
             developer. You can reach out at:
             <a href={`mailto:${email}`} className="hover:underline">
-              {{ email }}
+              {email}
             </a>
           </Trans>
         </p>

@@ -10,8 +10,8 @@ export default defineConfig({
     environment: "jsdom",
     setupFiles: "./tests/setup.ts",
     alias: {
-      'test-utils': path.resolve(__dirname, './tests/utils'),
-    }
+      "test-utils": path.resolve(__dirname, "./tests/utils"),
+    },
   },
   resolve: {
     alias: {
