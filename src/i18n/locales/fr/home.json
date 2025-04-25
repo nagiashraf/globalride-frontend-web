@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "title": "Louez une voiture et explorez le monde",
+    "subtitle": "Trouvez les meilleures offres de location de voiture et profitez de votre voyage avec confort et commodité."
+  },
+  "benefits": {
+    "title": "Pourquoi louer avec nous ?",
+    "subtitle": "Service de location de voitures de premier choix, apprécié des voyageurs du monde entier.",
+    "item1_headline": "Louez une voiture partout",
+    "item1_description": "Avec des agences dans plus de 50 pays, vous n'êtes jamais loin d'une expérience de location exceptionnelle.",
+    "item2_headline": "Aucun frais caché",
+    "item2_description": "Des tarifs transparents sans frais surprises. Ce que vous voyez est ce que vous payez !",
+    "item3_headline": "Choisissez parmi plus de 50 modèles",
+    "item3_description": "De l'économique au luxe, des SUV aux voitures électriques—trouvez le véhicule idéal.",
+    "item4_headline": "Réservez en toute confiance",
+    "item4_description": "Modifiez ou annulez votre réservation facilement. Remboursements complets disponibles sous des politiques flexibles.",
+    "item5_headline": "Assistance client 24h/24 et 7j/7",
+    "item5_description": "Assistance par chat en direct et téléphone disponible à tout moment, partout.",
+    "item6_headline": "Conduisez l'esprit tranquille",
+    "item6_description": "Assurance complète et véhicules désinfectés pour votre sécurité."
+  },
+  "destinations": {
+    "title": "Découvrez des destinations populaires",
+    "subtitle": "Trouvez la voiture parfaite pour votre prochaine aventure dans des lieux très bien notés dans le monde entier.",
+    "city1": "Dubaï",
+    "city2": "Le Caire",
+    "city3": "New York",
+    "city4": "Rio de Janeiro",
+    "city5": "Barcelone",
+    "city6": "Paris",
+    "city7": "Rome",
+    "city8": "Londres",
+    "btnText": "réservez maintenant"
+  }
+}

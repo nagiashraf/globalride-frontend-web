@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "title": "Rent a car and explore the world",
+    "subtitle": "Find the best deals on car rental and enjoy your trip with comfort and convenience."
+  },
+  "benefits": {
+    "title": "Why Rent With Us?",
+    "subtitle": "Top-rated car rental service trusted by travelers worldwide.",
+    "item1_headline": "Rent a Car Anywhere",
+    "item1_description": "With branches in over 50 countries, you're never far from a great rental experience.",
+    "item2_headline": "No Hidden Fees",
+    "item2_description": "Transparent pricing with no surprise charges. What you see is what you pay!",
+    "item3_headline": "Choose From 50+ Models",
+    "item3_description": "From economy to luxury, SUVs to electric cars—find the perfect ride.",
+    "item4_headline": "Book With Confidence",
+    "item4_description": "Modify or cancel your booking with ease. Full refunds available under flexible policies.",
+    "item5_headline": "24/7 Customer Assistance",
+    "item5_description": "Live chat and phone support available anytime, anywhere.",
+    "item6_headline": "Drive with Peace of Mind",
+    "item6_description": "Comprehensive insurance and sanitized vehicles for your safety."
+  },
+  "destinations": {
+    "title": "Discover Popular Destinations",
+    "subtitle": "Find the perfect car for your next adventure in top-rated locations worldwide.",
+    "city1": "Dubai",
+    "city2": "Cairo",
+    "city3": "New York",
+    "city4": "Rio de Janeiro",
+    "city5": "Barcelona",
+    "city6": "Paris",
+    "city7": "Rome",
+    "city8": "London",
+    "btnText": "book now"
+  }
+}

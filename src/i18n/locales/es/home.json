@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "title": "Alquila un coche y explora el mundo",
+    "subtitle": "Encuentra las mejores ofertas de alquiler de coches y disfruta de tu viaje con comodidad y conveniencia."
+  },
+  "benefits": {
+    "title": "¿Por qué alquilar con nosotros?",
+    "subtitle": "Servicio de alquiler de coches de alta calificación, confiado por viajeros de todo el mundo.",
+    "item1_headline": "Alquila un coche en cualquier lugar",
+    "item1_description": "Con sucursales en más de 50 países, nunca estás lejos de una excelente experiencia de alquiler.",
+    "item2_headline": "Sin tarifas ocultas",
+    "item2_description": "Precios transparentes sin cargos sorpresa. ¡Lo que ves es lo que pagas!",
+    "item3_headline": "Elige entre más de 50 modelos",
+    "item3_description": "Desde económico hasta lujo, SUV a coches eléctricos—encuentra el vehículo perfecto.",
+    "item4_headline": "Reserva con confianza",
+    "item4_description": "Modifica o cancela tu reserva con facilidad. Reembolsos completos disponibles bajo políticas flexibles.",
+    "item5_headline": "Asistencia al cliente 24/7",
+    "item5_description": "Chat en vivo y soporte telefónico disponible en cualquier momento y lugar.",
+    "item6_headline": "Conduce con tranquilidad",
+    "item6_description": "Seguro completo y vehículos desinfectados para tu seguridad."
+  },
+  "destinations": {
+    "title": "Descubre destinos populares",
+    "subtitle": "Encuentra el coche perfecto para tu próxima aventura en ubicaciones altamente valoradas en todo el mundo.",
+    "city1": "Dubái",
+    "city2": "El Cairo",
+    "city3": "Nueva York",
+    "city4": "Río de Janeiro",
+    "city5": "Barcelona",
+    "city6": "París",
+    "city7": "Roma",
+    "city8": "Londres",
+    "btnText": "reservar ahora"
+  }
+}

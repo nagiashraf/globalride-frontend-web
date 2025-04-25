@@ -1,0 +1,30 @@
+{
+  "header": {
+    "testing": "Testing..."
+  },
+  "searchForm": {
+    "pickupLocationLabel": "Pickup Location",
+    "pickupLocationPlaceholder": "Enter country, city, airport, or branch name...",
+    "dropoffLocationLabel": "Drop-off Location",
+    "dropoffLocationPlaceholder": "Enter country, city, airport, or branch name...",
+    "locationNotFound": "No results found. Try a different branch.",
+    "pickupDateLabel": "Pickup Date",
+    "pickupDatePlaceholder": "Select a date",
+    "dropoffDateLabel": "Drop-off Date",
+    "dropoffDatePlaceholder": "Select a date",
+    "timeLabel": "Time",
+    "timePlaceholder": "Select a time",
+    "submitButton": "Find cars",
+    "returnToTheSameBranchCheckbox": "Return to the same branch",
+    "validation_pickupLocationRequired": "Pickup location is required",
+    "validation_pickupDateFuture": "Pickup date must be in the future",
+    "validation_dropoffDateFuture": "Drop-off date must be in the future",
+    "validation_dropoffDateAfterPickup": "Drop-off date must be after pickup date",
+    "validation_invalidDate": "Invalid date",
+    "validation_invalidTime": "Invalid time"
+  },
+  "footer": {
+    "copyright": "Copyright © {{year}} GlobalRide. All rights reserved.",
+    "developerInfo": "This web app was developed by Nagi Ashraf, a .NET & React.js full-stack developer. You can reach out at: <1>{{email}}</1>"
+  }
+}

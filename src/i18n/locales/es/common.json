@@ -1,0 +1,30 @@
+{
+  "header": {
+    "testing": "Probando"
+  },
+  "searchForm": {
+    "pickupLocationLabel": "Lugar de recogida",
+    "pickupLocationPlaceholder": "Entra el país, la ciudad, el aeropuerto o el nombre de la sucursal...",
+    "dropoffLocationLabel": "Lugar de devolución",
+    "dropoffLocationPlaceholder": "Entra el país, la ciudad, el aeropuerto o el nombre de la sucursal...",
+    "locationNotFound": "No se han encontrado resultados. Intenta con otra sucursal.",
+    "pickupDateLabel": "Fecha de recogida",
+    "pickupDatePlaceholder": "Selecciona una fecha",
+    "dropoffDateLabel": "Fecha de devolución",
+    "dropoffDatePlaceholder": "Selecciona una fecha",
+    "timeLabel": "Hora",
+    "timePlaceholder": "Seleccionar una hora",
+    "submitButton": "Buscar coches",
+    "returnToTheSameBranchCheckbox": "Devolver a la misma sucursal",
+    "validation_pickupLocationRequired": "La ubicación de recogida es obligatoria",
+    "validation_pickupDateFuture": "La fecha de recogida debe ser en el futuro",
+    "validation_dropoffDateFuture": "La fecha de devolución debe ser en el futuro",
+    "validation_dropoffDateAfterPickup": "La fecha de devolución debe ser posterior a la fecha de recogida",
+    "validation_invalidDate": "Fecha no válida",
+    "validation_invalidTime": "Hora no válida"
+  },
+  "footer": {
+    "copyright": "Derechos de autor © {{year}} GlobalRide. Todos los derechos reservados.",
+    "developerInfo": "Esta aplicación web fue desarrollada por Nagui Áshraf, un desarrollador full-stack .NET y React.js. Puedes contactarle en: <1>{{email}}</1>"
+  }
+}

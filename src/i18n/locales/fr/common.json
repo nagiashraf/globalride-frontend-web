@@ -1,0 +1,30 @@
+{
+  "header": {
+    "testing": "Prob"
+  },
+  "searchForm": {
+    "pickupLocationLabel": "Lieu de prise en charge",
+    "pickupLocationPlaceholder": "Entrez le pays, la ville, l'aéroport ou le nom de la succursale...",
+    "dropoffLocationLabel": "Lieu de retour",
+    "dropoffLocationPlaceholder": "Entrez le pays, la ville, l'aéroport ou le nom de la succursale...",
+    "locationNotFound": "Aucun résultat trouvé. Essayez une autre succursale.",
+    "pickupDateLabel": "Date de ramassage",
+    "pickupDatePlaceholder": "Sélectionnez une date",
+    "dropoffDateLabel": "Date de retour",
+    "dropoffDatePlaceholder": "Sélectionnez une date",
+    "timeLabel": "Heure",
+    "timePlaceholder": "Sélectionnez une heure",
+    "submitButton": "Trouver des voitures",
+    "returnToTheSameBranchCheckbox": "Retourner à la même agence.",
+    "validation_pickupLocationRequired": "Le lieu de ramassage est requis",
+    "validation_pickupDateFuture": "La date de ramassage doit être dans le futur",
+    "validation_dropoffDateFuture": "La date de dépôt doit être dans le futur",
+    "validation_dropoffDateAfterPickup": "La date de dépôt doit être après la date de ramassage",
+    "validation_invalidDate": "Date invalide",
+    "validation_invalidTime": "Heure invalide"
+  },
+  "footer": {
+    "copyright": "Droits d'auteur © {{year}} GlobalRide. Tous droits réservés.",
+    "developerInfo": "Cette application web a été développée par Nagi Achraf, un développeur full-stack .NET & React.js. Vous pouvez le contacter à: <1>{{email}}</1>"
+  }
+}

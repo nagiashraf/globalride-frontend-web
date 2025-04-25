@@ -1,0 +1,30 @@
+{
+  "header": {
+    "testing": "اختبار"
+  },
+  "searchForm": {
+    "pickupLocationLabel": "مكان الاستلام",
+    "pickupLocationPlaceholder": "...أدخل البلد أو المدينة أو المطار أو اسم الفرع",
+    "dropoffLocationLabel": "مكان التسليم",
+    "dropoffLocationPlaceholder": "...أدخل البلد أو المدينة أو المطار أو اسم الفرع",
+    "locationNotFound": "لم يتم العثور على نتائج. جرب فرعًا مختلفًا.",
+    "pickupDateLabel": "تاريخ الاستلام",
+    "pickupDatePlaceholder": "اختر تاريخًا",
+    "dropoffDateLabel": "تاريخ التسليم",
+    "dropoffDatePlaceholder": "اختر تاريخًا",
+    "timeLabel": "الوقت",
+    "timePlaceholder": "حدد الوقت",
+    "submitButton": "ابحث عن سيارات",
+    "returnToTheSameBranchCheckbox": "التسليم إلى نفس الفرع",
+    "validation_pickupLocationRequired": "موقع الاستلام مطلوب",
+    "validation_pickupDateFuture": "يجب أن يكون تاريخ الاستلام في المستقبل",
+    "validation_dropoffDateFuture": "يجب أن يكون تاريخ التسليم في المستقبل",
+    "validation_dropoffDateAfterPickup": "يجب أن يكون تاريخ التسليم بعد تاريخ الاستلام",
+    "validation_invalidDate": "تاريخ غير صالح",
+    "validation_invalidTime": "وقت غير صالح"
+  },
+  "footer": {
+    "copyright": "حقوق النشر © {{year}} GlobalRide. جميع الحقوق محفوظة.",
+    "developerInfo": "تم تطوير هذا التطبيق بواسطة ناجي أشرف، مطور متكامل .NET وReact.js. يمكنك التواصل عبر: <1>{{email}}</1>"
+  }
+}
